@@ -1,10 +1,10 @@
 {
   "name": "Leaf2MQTT",
-  "version": "v0.1.0",
+  "version": "v0.1",
   "slug": "leaf2mqtt",
   "description": "Interact with your Nissan Leaf using MQTT",
   "startup": "application",
-  "url": "https://github.com/kamiKAC/leaf2mqtt",
+  "url": "https://github.com/brodiepeers/leaf2mqtt",
   "init": false,
   "arch": [
     "aarch64",
