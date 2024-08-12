@@ -3,7 +3,7 @@ version: "3"
 services:
   leaf2mqtt:
     container_name: leaf2mqtt
-    image: kamikac/leaf2mqtt
+    image: brodiepeers/leaf2mqtt
     logging:
       options:
         max-size: "1M"

@@ -43,12 +43,12 @@ Should work with multiple Leafs, but it is untested. Please open an issue with f
 ### Home Assistant add-on
 Click the icon below to add this repository to your Home Assistant instance or follow the procedure highlighted on the [Home Assistant website](https://home-assistant.io/hassio/installing_third_party_addons).
 
-[![Install leaf2mqtt add-on repo.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FkamiKAC%2Fleaf2mqtt)
+[![Install leaf2mqtt add-on repo.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbrodiepeers%2Fleaf2mqtt)
 
 ### Pre-built images
-You can use pre-built images from here: https://hub.docker.com/r/kamikac/leaf2mqtt
+You can use pre-built images from here: https://hub.docker.com/r/brodiepeers/leaf2mqtt
 
-tag example: `kamikac/leaf2mqtt:latest`
+tag example: `brodiepeers/leaf2mqtt:latest`
 
 ### Building the image
 
